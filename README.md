@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+BookBot prints the word count and the count of each characters contained in a text file.
